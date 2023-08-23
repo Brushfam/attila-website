@@ -14,7 +14,7 @@ export default function Home() {
       <main className={styles.main}>
           <p className={styles.header}>Coming soon</p>
           <video className={styles.mainVideo} disablePictureInPicture autoPlay muted loop>
-              <source src="/attila-animation.mp4" type="video/mp4"/>
+              <source src="attila-animation.mp4" type="video/mp4"/>
               Your browser does not support the video tag.
           </video>
           <div className={styles.footer}>
