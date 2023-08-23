@@ -72,4 +72,8 @@
   .mainVideo {
     width: 110%;
   }
+
+  .main {
+    height: 90vh;
+  }
 }
