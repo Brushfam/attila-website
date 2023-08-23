@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
+@font-face {
+  font-family: 'NeueMachina';
+  src: url(./NeueMachina-Regular.ttf) format('woff');
+}
+
 .main {
   position: relative;
   display: flex;
@@ -38,7 +43,7 @@
 }
 
 .header, .footer p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'NeueMachina', sans-serif;
   color: #FFF;
   font-size: 40px;
   font-style: normal;
@@ -70,10 +75,10 @@
   }
 
   .mainVideo {
-    width: 110%;
+    width: 120%;
   }
 
   .main {
-    height: 90vh;
+    height: 80vh;
   }
 }
