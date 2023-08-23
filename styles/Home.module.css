@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'NeueMachina';
-  src: url(./NeueMachina-Regular.ttf) format('woff');
+  src: url(styles/NeueMachina-Regular.ttf) format('woff');
 }
 
 .main {
